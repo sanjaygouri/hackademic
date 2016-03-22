@@ -41,7 +41,7 @@ Be sure to fill out all the information correctly. Failing to do so would probab
 
 
 Road Map and Getting Involved
------------------------------
+----------------------------
 
 We maintain an up to date list of open issues on the platform on our [issues](https://github.com/Hackademic/hackademic/issues)
 
